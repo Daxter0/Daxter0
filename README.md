@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hugo</h1>
 <h3 align="center">Software developer</h3>
 
-- 🔭 I’m currently working on [MnsLocation5](https://github.com/Daxter0/MnsLocation5)
+- 🔭 I’m currently working at ACREOS **https://acreos.eu/**
 
-- 🌱 I’m currently learning **ASP.NET**
+- 🌱 I’m currently learning **REACT**
 
 - 📫 How to reach me **hug.j@hotmail.fr**
 
